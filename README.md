@@ -1,4 +1,4 @@
-# Francis_Portfolio
+# Francis Atoyebi Portfolio
 This an overview of the projects I have worked on.
 
 # [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
