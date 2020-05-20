@@ -1,5 +1,5 @@
 # Francis Atoyebi Portfolio
-
+A personal collection of some of my finest, most challenging and interesting projects! Enjoy and I'll really appreciate your feedback. You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi) or [LinkedIn]()
 
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 
