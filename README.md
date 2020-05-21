@@ -21,8 +21,8 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 I'll add some images here
 
-[](Images/IMG-20200401-WA0018.jpg)
 
+[](https://github.com/Francis2381/Francis-Portfolio/blob/master/Images/IMG-20200401-WA0018.jpg)
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
