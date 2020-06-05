@@ -3,10 +3,8 @@ A personal collection of some of my finest, most challenging and interesting pro
 
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
 
-
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/avg_life_exp_per_continent.png' /><p>Project 1: Predicting Life Ecpectancy --- WHO</p></a>
-## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
-
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/avg_life_exp_per_continent.png' /></a>
+## [Project 1: Predicting Life Ecpectancy --- WHO]
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
 1. What factors affect the life expectancy of a country
@@ -24,15 +22,15 @@ In this project, I explored working with the WHO data to achieve the following
 I'll add some images here
 
 
-![](/Images/Nigeria_GDP.png) 
+![](/Images/Nigeria_GDP.png)<img/>
 
-![](/Images/Africa_Correlation.png) 
+![](/Images/Africa_Correlation.png) <img/>
 
-![](/Images/avg_life_exp_per_continent.png) 
+![](/Images/avg_life_exp_per_continent.png)<img/>
 
-![](/Images/life_exp_per_year.png) 
+![](/Images/life_exp_per_year.png)<img/>
 
-![](/Images/Losses.png)
+![](/Images/Losses.png)<img/>
 
 
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
