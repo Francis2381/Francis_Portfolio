@@ -39,7 +39,7 @@ I'll add some images here
 
 ![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/Losses.png)
 
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikihow.com%2FMake-Any-Picture-Your-Computer%2527s-Wallpaper&psig=AOvVaw1d4iujj6bCocRKlcsht9NK&ust=1591425846271000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj8xbSJ6ukCFQAAAAAdAAAAABAD)
 
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
