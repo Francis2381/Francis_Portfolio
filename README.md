@@ -24,8 +24,15 @@ In this project, I explored working with the WHO data to achieve the following
 I'll add some images here
 
 
-![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/Nigeria_GDP.png) 
+![](/Images/Nigeria_GDP.png) 
 
+![](/Images/Africa_Correlation.png) 
+
+![](/Images/avg_life_exp_per_continent.png) 
+
+![](/Images/life_exp_per_year.png) 
+
+![](/Images/Losses.png)
 
 
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
