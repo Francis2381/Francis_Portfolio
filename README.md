@@ -4,7 +4,7 @@ A personal collection of some of my finest, most challenging and interesting pro
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
 
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/avg_life_exp_per_continent.png' /></a>
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/avg_life_exp_per_continent.png' /><p>Project 1: Predicting Life Ecpectancy --- WHO</p></a>
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 
 ### AIM
