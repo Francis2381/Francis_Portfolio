@@ -3,13 +3,8 @@ A personal collection of some of my finest, most challenging and interesting pro
 
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
 
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/avg_life_exp_per_continent.png'></a>
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/avg_life_exp_per_continent.png' /></a>
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 
 ### AIM
@@ -31,15 +26,7 @@ I'll add some images here
 
 ![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/Nigeria_GDP.png) 
 
-![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/Africa_Correlation.png) 
 
-![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/avg_life_exp_per_continent.png) 
-
-![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/life_exp_per_year.png) 
-
-![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Images/Losses.png)
-
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikihow.com%2FMake-Any-Picture-Your-Computer%2527s-Wallpaper&psig=AOvVaw1d4iujj6bCocRKlcsht9NK&ust=1591425846271000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj8xbSJ6ukCFQAAAAAdAAAAABAD)
 
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
