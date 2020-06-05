@@ -3,6 +3,12 @@ A personal collection of some of my finest, most challenging and interesting pro
 
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
 
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/avg life exp per continent.png' /></a>
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 
 ### AIM
@@ -22,7 +28,11 @@ In this project, I explored working with the WHO data to achieve the following
 I'll add some images here
 
 
-![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/Nigeria GDP.png) ![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/Africa Correlation.png) ![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/avg life exp per continent.png) ![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/life exp per year.png) ![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/Losses.png)
+![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/Nigeria GDP.png) 
+![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/Africa Correlation.png) 
+![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/avg life exp per continent.png) 
+![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/life exp per year.png) 
+![](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO/tree/master/Image/Losses.png)
 
 
 
