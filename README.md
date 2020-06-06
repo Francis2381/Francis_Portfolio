@@ -18,11 +18,9 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
-<img src='/Francis-Portfolio/Images/Losses.png' width="500px">
-After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
-<img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
-<img src='/Francis-Portfolio/Images/life_exp_per_year.png' width="500px">
+<img src='/Francis-Portfolio/Images/progression.png' width="500px">
 <img src='/Francis-Portfolio/Images/avg_life_exp_per_continent.png' width="500px">
+<img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
 
 
 -----------------
