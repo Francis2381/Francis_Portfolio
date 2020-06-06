@@ -20,7 +20,7 @@ In this project, I explored working with the WHO data to achieve the following
 **Some of the informative plots made from the analysis.**
 
 <style>.jj {float: left;}</style>
-<p><img src="/Images/Losses.png" alt="Pineapple" class= "jj" style="width:170px;height:170px;margin-right:15px;"> After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.</p>
+<p><img src="/Francis-Portfolio/Images/Losses.png" alt="Pineapple" class= "jj" style="width:170px;height:170px;margin-right:15px;"> After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.</p>
 <img src='/Francis-Portfolio/Images/Losses.png' width="500px">
 After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
 <img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
