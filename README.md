@@ -24,7 +24,6 @@ In this project, I explored working with the WHO data to achieve the following
 -----------------
 -----------------
 <h2 align="center"><a href="https://github.com/Francis2381/NLP---Whatsapp-Chat">Project 2: NLP WhatsApp Chat</a></h2>
-<a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/final_image.png)</a>
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
 
