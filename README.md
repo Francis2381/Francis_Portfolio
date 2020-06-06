@@ -1,7 +1,5 @@
 <h2 align="center"><a href="https://github.com/Francis2381/Predicting-Life-Expectancy---WHO">Project 1: Predicting Life Ecpectancy --- WHO</a></h2>
 
-<a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
-
 <h3 align="center">AIM</h3>
 In this project, I explored working with the WHO data to achieve the following
 1. What factors affect the life expectancy of a country
@@ -30,20 +28,21 @@ In this project, I explored working with the WHO data to achieve the following
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
 
-### AIM
+<h3 align="center">AIM</h3>
 1. Loaded and parsed a typical WhatsApp chat into a sorted dataframe
 2. Cleaned the data and sorted it into various columns
 3. Got some insight from the chat and created some Visualizations
 4. Converted the texts to numbers using count vectorizer
 
-### What I did
+<h3 align="center">What I did</h3>
 + I sorted the .txt data into a datafram having the following main columns sender,, 
 + Word cloud
-+ 
 
-### Visualizations
+<h3 align="center">Visualizatiosn</h3>
 
-I'll add some images here
+<img src='/Francis-Portfolio/Images/final_image.png' width="100%">
+<img src='/Francis-Portfolio/Images/hist_msg.png' width="100%">
+
 
 -----------------
 -----------------
