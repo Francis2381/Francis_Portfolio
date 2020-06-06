@@ -1,4 +1,4 @@
-# Francis Atoyebi Portfolio
+<h1 align="center">Francis Atoyebi</h1>
 <div align="center"><img src="/Francis-Portfolio/Images/me.jpg" alt="Francis Atoyebi" width="25%"></div>
 
 <h1 align="center">Welcome</h1>
@@ -26,6 +26,8 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
+<style>img {float: right;}</style>
+<p><img src="/Images/Losses.png" alt="Pineapple" style="width:170px;height:170px;margin-left:15px;"> After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.</p>
 <div><img src='/Francis-Portfolio/Images/Losses.png' width="500px">
 After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
 <img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
