@@ -1,4 +1,5 @@
 # Francis Atoyebi Portfolio
+<img src="/Images/me.jpg" alt="Franci Atoyebi" width="25%" class="centre">
 A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback. 
 
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
@@ -21,7 +22,8 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
-![](/Images/Losses.png)After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
+![](/Images/Losses.png)
+After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
 ![](/Images/Nigeria_GDP.png)
 ![](/Images/life_exp_per_year.png)
 ![](/Images/Africa_Correlation.png)
