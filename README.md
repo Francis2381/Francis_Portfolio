@@ -45,9 +45,11 @@ This is a mini project that I carried out for no other reason than boredom and w
 
 -----------------
 -----------------
-
-## [Project 3: Nigerian Economic Summit Group(NESG)](https://github.com/Francis2381/NESG)
+<h2 align="center"><a href="https://github.com/Francis2381/NESG">Project 3: Nigerian Economic Summit Group(NESG)</a></h2>
 
 I volunteered with the Nigerian Economic Summit Group to work on this project, I was part of the team charged to analyse series of data and come up with insights which are meant to be presented at the Nigerian Economic Summit, October 2019, where various insights that might influence economic decisions will be discussed. In this project notebook, we:
 + Extracted the needed data for the analysis from an excel workbook
 + Performed a predictive analysis on the data
+
+
+<h1 align="center">Website under periodic Deavelopment</h1>
