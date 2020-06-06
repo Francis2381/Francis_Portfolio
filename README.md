@@ -1,14 +1,3 @@
-<h1 align="center">Francis Atoyebi</h1>
-<div align="center"><img src="/Francis-Portfolio/Images/me.jpg" alt="Francis Atoyebi" width="25%"></div>
-
-<h1 align="center">Welcome</h1>
-<p align="center">A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback.</p> 
-
-<p align="center">You can reach me on <a href="https://twitter.com/FrancisAtoyebi">Twitter</a>, <a href="https://www.linkedin.com/in/francis-atoyebi">LinkedIn</a> or mail me atoyebi280@gmail.com.</p>
-
-
-----------------------
-----------------------
 <h2 align="center"><a href="https://github.com/Francis2381/Predicting-Life-Expectancy---WHO">Project 1: Predicting Life Ecpectancy --- WHO</a></h2>
 
 <a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
@@ -42,13 +31,13 @@ After the predictive analysis, the images above shows the difference between the
 
 -----------------
 -----------------
+<h2 align="center"><a href="https://github.com/Francis2381/NLP---Whatsapp-Chat">Project 2: NLP WhatsApp Chat</a></h2>
 <a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/final_image.png)</a>
-## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
 
 ### AIM
-1. Loaded and parsed a typical WhatsApp .txt exported chat into a sorted dataframe
+1. Loaded and parsed a typical WhatsApp chat into a sorted dataframe
 2. Cleaned the data and sorted it into various columns
 3. Got some insight from the chat and created some Visualizations
 4. Converted the texts to numbers using count vectorizer
