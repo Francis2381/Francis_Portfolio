@@ -2,7 +2,6 @@
 
 <a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
 
-
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
 1. What factors affect the life expectancy of a country
@@ -19,13 +18,10 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
-<style>.jj {float: left;}</style>
-<p><img src="/Francis-Portfolio/Images/Losses.png" alt="Pineapple" class= "jj" style="width:170px;height:170px;margin-right:15px;"> After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.</p>
 <img src='/Francis-Portfolio/Images/Losses.png' width="500px">
 After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
 <img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
 <img src='/Francis-Portfolio/Images/life_exp_per_year.png' width="500px">
-<img src='/Francis-Portfolio/Images/Africa_Correlation.png' width="500px">
 <img src='/Francis-Portfolio/Images/avg_life_exp_per_continent.png' width="500px">
 
 
@@ -51,10 +47,11 @@ This is a mini project that I carried out for no other reason than boredom and w
 
 I'll add some images here
 
-
+-----------------
+-----------------
 
 ## [Project 3: Nigerian Economic Summit Group(NESG)](https://github.com/Francis2381/NESG)
 
 I volunteered with the Nigerian Economic Summit Group to work on this project, I was part of the team charged to analyse series of data and come up with insights which are meant to be presented at the Nigerian Economic Summit, October 2019, where various insights that might influence economic decisions will be discussed. In this project notebook, we:
 + Extracted the needed data for the analysis from an excel workbook
-+
++ Performed a predictive analysis on the data
