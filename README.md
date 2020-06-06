@@ -16,7 +16,7 @@ In this project, I explored working with the WHO data to achieve the following
 <h3 align="center">Visualization</h3>
 **Some of the informative plots made from the analysis.**
 
-<img src='/Francis-Portfolio/Images/progression.png' width="100%">
+<img src="/Images/progression.png" width="100%">
 <img src='/Francis-Portfolio/Images/avg_life_exp_per_continent.png' width="100%">
 <img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="100%">
 
