@@ -1,5 +1,5 @@
 <h1 align="center">Francis Atoyebi</h1>
-<div align="center"><img1 src="/Francis-Portfolio/Images/me.jpg" alt="Francis Atoyebi" width="25%"></div>
+<div align="center"><img src="/Francis-Portfolio/Images/me.jpg" alt="Francis Atoyebi" width="25%"></div>
 
 <h1 align="center">Welcome</h1>
 <p align="center">A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback.</p> 
@@ -30,14 +30,14 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
-<style>img {float: right;}</style>
-<p><img src="/Images/Losses.png" alt="Pineapple" style="width:170px;height:170px;margin-left:15px;"> After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.</p>
-<img2 src='/Francis-Portfolio/Images/Losses.png' width="500px">
+<style>.jj {float: right;}</style>
+<p><img src="/Images/Losses.png" alt="Pineapple" class="jj" style="width:170px;height:170px;margin-left:15px;"> After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.</p>
+<img src='/Francis-Portfolio/Images/Losses.png' width="500px">
 After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
-<img2 src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
-<img2 src='/Francis-Portfolio/Images/life_exp_per_year.png' width="500px">
-<img2 src='/Francis-Portfolio/Images/Africa_Correlation.png' width="500px">
-<img2 src='/Francis-Portfolio/Images/avg_life_exp_per_continent.png' width="500px">
+<img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
+<img src='/Francis-Portfolio/Images/life_exp_per_year.png' width="500px">
+<img src='/Francis-Portfolio/Images/Africa_Correlation.png' width="500px">
+<img src='/Francis-Portfolio/Images/avg_life_exp_per_continent.png' width="500px">
 
 
 -----------------
