@@ -1,12 +1,12 @@
 # Francis Atoyebi Portfolio
-<div align=”center”><img src="/Images/me.jpg" alt="Franci Atoyebi" width="25%"></div>
+<div style="text-align:center"><img src="/Images/me.jpg" alt="Franci Atoyebi" width="25%"></div>
 
-<div align=”center”># Welcome</div>
+<div align=”center”>Welcome</div>
 A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback. 
 
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/progression.png' /></a>
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Francis-Portfolio/Images/progression.png' /></a>
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
@@ -24,16 +24,16 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
-![](/Images/Losses.png)
+<img src='/Images/Losses.png' width="500px">
 After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
-![](/Images/Nigeria_GDP.png)
-![](/Images/life_exp_per_year.png)
-![](/Images/Africa_Correlation.png)
-![](/Images/avg_life_exp_per_continent.png)
+<img src='/Images/Nigeria_GDP.png' width="500px">
+<img src='/Images/life_exp_per_year.png' width="500px">
+<img src='/Images/Africa_Correlation.png' width="500px">
+<img src='/Images/avg_life_exp_per_continent.png' width="500px">
 
 
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/progression.png' /></a>
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/final_image.png' width="650px"></a>
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
