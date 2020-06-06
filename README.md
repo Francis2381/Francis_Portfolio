@@ -8,8 +8,8 @@
 
 
 <a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
-<p align="center"><a href="https://github.com/Francis2381/Predicting-Life-Expectancy---WHO">Project 1: Predicting Life Ecpectancy --- WHO</a></p>
-## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
+<h2 align="center"><a href="https://github.com/Francis2381/Predicting-Life-Expectancy---WHO">Project 1: Predicting Life Ecpectancy --- WHO</a></h2>
+
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
 1. What factors affect the life expectancy of a country
