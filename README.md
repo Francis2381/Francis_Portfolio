@@ -2,20 +2,20 @@
 
 <a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
 
-### AIM
+<h3 align="center">AIM</h3>
 In this project, I explored working with the WHO data to achieve the following
 1. What factors affect the life expectancy of a country
 2. Train an algorithm to predict the life expectancy of various countries
 3. Create beautiful plots to convey the insights from this analysis with little or no words spoken
 
-### What I did
+<h3 align="center">What I did</h3>
 + I sourced for external data to compliment the data gotten from kaggle
 + Cleaned the data (Dealt with missing entries and outliers)
 + Created insightful and beautiful plots using matplotlib and seaborn
 + Carried out exploratory data analysis
 + Trained a linear regression algorithm on the data and this helped me to determine what factors affect the life expectancy of a country more.
 
-### Visualizations
+<h3 align="center">Visualization</h3>
 **Some of the informative plots made from the analysis.**
 
 <img src='/Francis-Portfolio/Images/progression.png' width="100%">
