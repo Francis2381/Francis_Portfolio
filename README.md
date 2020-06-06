@@ -1,5 +1,5 @@
 # Francis Atoyebi Portfolio
-<div align="center"><img src="/Francis-Portfolio/Images/me.jpg" alt="Franci Atoyebi" width="25%"></div>
+<div align="center"><img src="/Francis-Portfolio/Images/me.jpg" alt="Francis Atoyebi" width="25%"></div>
 
 <h1 align="center">Welcome</h1>
 <p align="center">A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback.</p> 
@@ -8,6 +8,7 @@
 
 
 <a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
+<p align="center"><a href="https://github.com/Francis2381/Predicting-Life-Expectancy---WHO">Project 1: Predicting Life Ecpectancy --- WHO</a></p>
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
@@ -25,16 +26,16 @@ In this project, I explored working with the WHO data to achieve the following
 ### Visualizations
 **Some of the informative plots made from the analysis.**
 
-<img src='/Images/Losses.png' width="500px">
+<div><img src='/Francis-Portfolio/Images/Losses.png' width="500px">
 After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
-<img src='/Images/Nigeria_GDP.png' width="500px">
-<img src='/Images/life_exp_per_year.png' width="500px">
-<img src='/Images/Africa_Correlation.png' width="500px">
-<img src='/Images/avg_life_exp_per_continent.png' width="500px">
+<img src='/Francis-Portfolio/Images/Nigeria_GDP.png' width="500px">
+<img src='/Francis-Portfolio/Images/life_exp_per_year.png' width="500px">
+<img src='/Francis-Portfolio/Images/Africa_Correlation.png' width="500px">
+<img src='/Francis-Portfolio/Images/avg_life_exp_per_continent.png' width="500px"></div>
 
 
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'>![](/Images/final_image.png)</a>
+<a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/final_image.png)</a>
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
