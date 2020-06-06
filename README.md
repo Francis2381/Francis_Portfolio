@@ -1,12 +1,13 @@
 # Francis Atoyebi Portfolio
-<div align="center"><img src="/Images/me.jpg" alt="Franci Atoyebi" width="25%"></div>
+<div align="center"><img src="/Francis-Portfolio/Images/me.jpg" alt="Franci Atoyebi" width="25%"></div>
 
-<div align="center" h1>Welcome</div>
-A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback. 
+<h1 align="center">Welcome</h1>
+<p align="center">A personal collection of some of my finest, most challenging and interesting projects! Enjoy!!! and I'll really appreciate your feedback.</p> 
 
-You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
+<p align="center">You can reach me on <a href="https://twitter.com/FrancisAtoyebi">Twitter</a>, <a href="https://www.linkedin.com/in/francis-atoyebi">LinkedIn</a> or mail me atoyebi280@gmail.com.</p>
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
+
+<a align="center" href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> ![](/Images/progression.png)</a>
 ## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
