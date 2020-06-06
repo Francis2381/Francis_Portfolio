@@ -3,8 +3,8 @@ A personal collection of some of my finest, most challenging and interesting pro
 
 You can reach me on [Twitter](https://twitter.com/FrancisAtoyebi), [LinkedIn](https://www.linkedin.com/in/francis-atoyebi) or mail me atoyebi280@gmail.com.
 
-<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/avg_life_exp_per_continent.png' /></a>
-## [Project 1: Predicting Life Ecpectancy --- WHO]
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/progression.png' /></a>
+## [Project 1: Predicting Life Ecpectancy --- WHO](https://github.com/Francis2381/Predicting-Life-Expectancy---WHO)
 ### AIM
 In this project, I explored working with the WHO data to achieve the following
 1. What factors affect the life expectancy of a country
@@ -15,17 +15,21 @@ In this project, I explored working with the WHO data to achieve the following
 + I sourced for external data to compliment the data gotten from kaggle
 + Cleaned the data (Dealt with missing entries and outliers)
 + Created insightful and beautiful plots using matplotlib and seaborn
++ Carried out exploratory data analysis
 + Trained a linear regression algorithm on the data and this helped me to determine what factors affect the life expectancy of a country more.
-+
 
 ### Visualizations
+**Some of the informative plots made from the analysis.**
+
+![](/Images/Losses.png)After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value.
 ![](/Images/Nigeria_GDP.png)
 ![](/Images/life_exp_per_year.png)
 ![](/Images/Africa_Correlation.png)
 ![](/Images/avg_life_exp_per_continent.png)
-![](/Images/Losses.png)<p>After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value</p>
 
 
+
+<a href='https://github.com/Francis2381/Predicting-Life-Expectancy---WHO'> <img src='/Images/progression.png' /></a>
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
 
 This is a mini project that I carried out for no other reason than boredom and wanting to showcase some skills to impress myself.
