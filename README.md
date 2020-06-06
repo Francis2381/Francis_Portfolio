@@ -37,7 +37,7 @@ This is a mini project that I carried out for no other reason than boredom and w
 + I sorted the .txt data into a datafram having the following main columns sender,, 
 + Word cloud
 
-<h3 align="center">Visualizatiosn</h3>
+<h3 align="center">Visualizations</h3>
 
 <img src='/Francis-Portfolio/Images/final_image.png' width="100%">
 <img src='/Francis-Portfolio/Images/hist_msg.png' width="100%">
