@@ -19,18 +19,11 @@ In this project, I explored working with the WHO data to achieve the following
 +
 
 ### Visualizations
-I'll add some images here
-
-
-![](/Images/Nigeria_GDP.png)<img/>
-
-![](/Images/Africa_Correlation.png) <img/>
-
-![](/Images/avg_life_exp_per_continent.png)<img/>
-
-![](/Images/life_exp_per_year.png)<img/>
-
-![](/Images/Losses.png)<img/>
+![](/Images/Nigeria_GDP.png)
+![](/Images/life_exp_per_year.png)
+![](/Images/Africa_Correlation.png)
+![](/Images/avg_life_exp_per_continent.png)
+![](/Images/Losses.png)<p>After the predictive analysis, the images above shows the difference between the values the trained model predicted and the actual value</p>
 
 
 ## [Project 2: NLP WhatsApp Chat](https://github.com/Francis2381/NLP---Whatsapp-Chat)
